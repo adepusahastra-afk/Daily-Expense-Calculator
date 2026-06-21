@@ -1,4 +1,4 @@
-# Daily-Expense-Calculator
+code:# Daily-Expense-Calculator
 A sDaily Expense Calculator
 
 total = 0
@@ -22,4 +22,4 @@ Calculate total expenses.
 Display all entered expenses.
 Easy and user-friendly.
 Helps in budget management.
-"The Daily Expense Calculator helps users track and calculate daily expenses easily, improving financial management and budgeting skills."
+conclusion:"The Daily Expense Calculator helps users track and calculate daily expenses easily, improving financial management and budgeting skills."
